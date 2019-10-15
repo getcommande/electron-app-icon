@@ -1,0 +1,9 @@
+{
+  "name": "electron-app-icon",
+  "version": "0.0.1",
+  "description": "Give the path to a macOS .app, get back an image of the app's icon for use with Electron",
+  "main": "index.js",
+  "repository": "https://github.com/getcommande/electron-app-icon",
+  "author": "Ben Standefer",
+  "license": "MIT"
+}
